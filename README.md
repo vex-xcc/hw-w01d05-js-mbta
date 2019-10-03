@@ -76,7 +76,7 @@ stopsBetweenStations('Red', 'South Station', 'Green', 'Kenmore') // 6 stops
   *Park Street*.
 
 
-## Bonus
+## Bonus (Optional)
 
 - Add validation so that the function only accepts Red, Green, and Orange for lines and only accepts the correct stops for each of their stops.
 - Have the function print the line and stops as they ride the train.
@@ -92,6 +92,10 @@ stopsBetweenStations('Red', 'South Station', 'Green', 'Copley')
 // Rider arrives at Green Line and Copley.
 // Rider exits the train at Green Line and Copley.
 ```
+
+## Bonus (Super Optional)
+
+If you have made it this far and are still looking for a challenge. Then take a stab at the [MTA Puzzle](https://github.com/sei-relativity/hw-w01d05-js-mta-optional) and see how far you can push yourself.
 
 ## [License](LICENSE)
 
