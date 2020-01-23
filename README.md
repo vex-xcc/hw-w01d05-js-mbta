@@ -95,7 +95,7 @@ stopsBetweenStations('Red', 'South Station', 'Green', 'Copley')
 
 ## Bonus (Super Optional)
 
-If you have made it this far and are still looking for a challenge. Then take a stab at the [MTA Puzzle](https://github.com/sei-relativity/hw-w01d05-js-mta-optional) and see how far you can push yourself.
+If you have made it this far and are still looking for a challenge. Then take a stab at the [MTA Puzzle](https://github.com/sei-entropy/hw-w01d05-js-mta-optional) and see how far you can push yourself.
 
 ## [License](LICENSE)
 
